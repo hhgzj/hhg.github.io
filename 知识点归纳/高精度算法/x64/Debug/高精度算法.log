@@ -1,0 +1,8 @@
+﻿  高精度除以高精度.cpp
+D:\Visual Studio Files\知识点归纳\高精度算法\高精度除以高精度.cpp(7,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Files\知识点归纳\高精度算法\高精度除以高精度.cpp(8,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Files\知识点归纳\高精度算法\高精度除以高精度.cpp(18,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Files\知识点归纳\高精度算法\高精度除以高精度.cpp(19,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Files\知识点归纳\高精度算法\高精度除以高精度.cpp(40,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Visual Studio Files\知识点归纳\高精度算法\高精度除以高精度.cpp(41,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  高精度算法.vcxproj -> D:\Visual Studio Files\知识点归纳\高精度算法\x64\Debug\高精度算法.exe
